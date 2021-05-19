@@ -6,15 +6,15 @@ country: "us"
 language: "en"    
 latitude: "41.732400"    
 longitude: "-72.793634"   
-humandate: "July 1, 2021"    
+humandate: "June 23, 2021"    
 humantime: "9:00 am - 12:00 pm"    
-startdate: 2021-07-01     
-enddate: 2021-07-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2021-06-23     
+enddate: 2021-06-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Jason Macklin", "Richard Yanicky", "David McKenzie", "Aaron McDivitt"] 
 helper: ["Matt Bradley"]
 email: ["jason.macklin@jax.org", "susan.mcclatchy@jax.org"] 
 collaborative_notes: 
-eventbrite: 152439640067         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
