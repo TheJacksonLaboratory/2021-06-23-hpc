@@ -14,7 +14,7 @@ instructor: ["Jason Macklin", "Richard Yanicky", "David McKenzie", "Aaron McDivi
 helper: ["Matt Bradley"]
 email: ["jason.macklin@jax.org", "susan.mcclatchy@jax.org"] 
 collaborative_notes: 
-eventbrite:         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 158588836479        # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
